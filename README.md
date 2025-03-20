@@ -9,13 +9,7 @@
 - [Project Goals](#-project-goals)  
 - [How to Use the Dashboard](#-how-to-use-the-dashboard)
 
-  ## Table of Contents  
-
-- <a href="#project-overview">Project Overview</a>  
-- <a href="#key-features">Key Features</a>  
-- <a href="#dataset-information">Dataset Information</a>  
-- <a href="#project-goals">Project Goals</a>  
-- <a href="#how-to-use-the-dashboard">How to Use the Dashboard</a>  
+ 
 
 
 
