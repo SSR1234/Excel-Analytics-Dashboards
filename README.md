@@ -45,7 +45,7 @@ The dataset consists of multiple fields for comprehensive analysis.
 ![image](https://github.com/user-attachments/assets/48849c9d-6dd8-47bd-91e9-8f927323c751)![image](https://github.com/user-attachments/assets/be213863-4e14-4c18-89fe-5ba9be452848)
 
 
-## 🎯 Project Goals
+## 🎯 Project Goals 
 ✅ Provide actionable insights using Excel dashboards <br>  
 ✅ Enhance decision-making through visual analytics <br>  
 ✅ Identify sales trends, customer behavior, and order patterns, and geographical analysis <br>  
